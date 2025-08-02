@@ -34,6 +34,5 @@ In the next version, the model will:
 ## 💡 Example Output
 
 ```python
-Title: "You Won't Believe This AI Trick!"
-Prediction: Viral ✅  
-Confidence: 81%
+Title: "The Trump Presidency: Last Week Tonight with John Oliver (HBO)
+Confidence: 66%
